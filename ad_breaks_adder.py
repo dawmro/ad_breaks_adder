@@ -113,4 +113,4 @@ def add_ad_breaks(parts: int):
 if __name__ == "__main__":
 	time.sleep(2)
 	#get_mouse_position()
-	add_ad_breaks(30)
+	add_ad_breaks(1)
